@@ -1,0 +1,144 @@
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  [00:16:15] [Client thread/FATAL]: Reported exception thrown!
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  m: Rendering entity in world
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dnc.a(SourceFile:695) ~[minecraft.jar:?]
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at cyc.e(SourceFile:954) ~[minecraft.jar:?]
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at cyc.b(SourceFile:410) [minecraft.jar:?]
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at net.minecraft.client.main.Main.main(SourceFile:155) [minecraft.jar:?]
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  Caused by: java.lang.NoSuchFieldError: ELYTRA
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dkg.i(SourceFile:95) ~[minecraft.jar:?]
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dmm.p(SourceFile:99) ~[minecraft.jar:?]
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dvj.a(SourceFile:37) ~[minecraft.jar:?]
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dvj.a(SourceFile:15) ~[minecraft.jar:?]
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dsz.a(SourceFile:431) ~[minecraft.jar:?]
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dsz.a(SourceFile:164) ~[minecraft.jar:?]
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dwn.a(SourceFile:67) ~[minecraft.jar:?]
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dwn.a(SourceFile:34) ~[minecraft.jar:?]
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dsa.a(SourceFile:385) ~[minecraft.jar:?]
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at deb.a(SourceFile:142) ~[minecraft.jar:?]
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dds.a(SourceFile:770) ~[minecraft.jar:?]
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at ddf.render(SourceFile:83) ~[minecraft.jar:?]
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at ddu.render(SourceFile:42) ~[minecraft.jar:?]
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dds.render(SourceFile:671) ~[minecraft.jar:?]
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dnc.a(SourceFile:686) ~[minecraft.jar:?]
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	... 3 more
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  ---- Minecraft Crash Report ----
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  // My bad.
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  Time: 02/08/19 00:16
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  Description: Rendering entity in world
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  java.lang.NoSuchFieldError: ELYTRA
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dkg.i(SourceFile:95)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dmm.p(SourceFile:99)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dvj.a(SourceFile:37)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dvj.a(SourceFile:15)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dsz.a(SourceFile:431)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dsz.a(SourceFile:164)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dwn.a(SourceFile:67)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dwn.a(SourceFile:34)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dsa.a(SourceFile:385)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at deb.a(SourceFile:142)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dds.a(SourceFile:770)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at ddf.render(SourceFile:83)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at ddu.render(SourceFile:42)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dds.render(SourceFile:671)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dnc.a(SourceFile:686)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at cyc.e(SourceFile:954)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at cyc.b(SourceFile:410)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at net.minecraft.client.main.Main.main(SourceFile:155)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  A detailed walkthrough of the error, its code path and all known details is as follows:
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  ---------------------------------------------------------------------------------------
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  -- Head --
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  Thread: Client thread
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  Stacktrace:
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dkg.i(SourceFile:95)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dmm.p(SourceFile:99)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dvj.a(SourceFile:37)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dvj.a(SourceFile:15)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dsz.a(SourceFile:431)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dsz.a(SourceFile:164)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dwn.a(SourceFile:67)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dwn.a(SourceFile:34)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  -- Entity being rendered --
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  Details:
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Entity Type: minecraft:player (dmp)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Entity ID: 160
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Entity Name: _Skynner_
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Entity's Exact location: 177.90, 64.00, -191.21
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Entity's Block location: World: (177,64,-192), Chunk: (at 1,4,0 in 11,-12; contains blocks 176,0,-192 to 191,255,-177), Region: (0,-1; contains chunks 0,-32 to 31,-1, blocks 0,0,-512 to 511,255,-1)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Entity's Momentum: 0.00, -0.08, 0.00
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Entity's Passengers: []
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Entity's Vehicle: ~~ERROR~~ NullPointerException: null
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  -- Renderer details --
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  Details:
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Assigned renderer: dwn@3514ea20
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Location: 0.00,0.00,0.00 - World: (0,0,0), Chunk: (at 0,0,0 in 0,0; contains blocks 0,0,0 to 15,255,15), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Rotation: 0.0
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Delta: 1.0
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  Stacktrace:
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dsa.a(SourceFile:385)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at deb.a(SourceFile:142)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dds.a(SourceFile:770)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at ddf.render(SourceFile:83)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at ddu.render(SourceFile:42)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dds.render(SourceFile:671)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  -- Screen render details --
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  Details:
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Screen name: dds
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Mouse location: Scaled: (320, 215). Absolute: (1283.000000, 858.000000)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Screen size: Scaled: (480, 265). Absolute: (1920, 1057). Scale factor of 4.000000
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  -- Affected level --
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  Details:
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	All players: 1 total; [dmp['_Skynner_'/160, l='MpServer', x=177.90, y=64.00, z=-191.21]]
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Chunk stats: Client Chunk Cache: 729, 483
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Level dimension: minecraft:overworld
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Level name: MpServer
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Level seed: 0
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Level generator: ID 00 - default, ver 1. Features enabled: false
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Level generator options: {}
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Level spawn location: World: (197,64,-192), Chunk: (at 5,4,0 in 12,-12; contains blocks 192,0,-192 to 207,255,-177), Region: (0,-1; contains chunks 0,-32 to 31,-1, blocks 0,0,-512 to 511,255,-1)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Level time: 238 game time, 238 day time
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Level storage version: 0x00000 - Unknown?
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Level game mode: Game mode: creative (ID 1). Hardcore: false. Cheats: false
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Server brand: vanilla
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Server type: Integrated singleplayer server
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  Stacktrace:
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at dkf.a(SourceFile:421)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at cyc.b(SourceFile:1923)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at cyc.b(SourceFile:425)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	at net.minecraft.client.main.Main.main(SourceFile:155)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  -- System Details --
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  Details:
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Minecraft Version: 1.14.4
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Minecraft Version ID: 1.14.4
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Operating System: Windows 10 (amd64) version 10.0
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Java Version: 1.8.0_201, Oracle Corporation
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Memory: 3751147424 bytes (3577 MB) / 4294967296 bytes (4096 MB) up to 4294967296 bytes (4096 MB)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	CPUs: 12
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	JVM Flags: 5 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms4096m -Xmx4096m -XX:+UseG1GC -XX:MaxGCPauseMillis=4
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Launched Version: 1.14.4
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	LWJGL: 3.2.2 build 10
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	OpenGL: GeForce GTX 960/PCIe/SSE2 GL version 4.6.0 NVIDIA 419.67, NVIDIA Corporation
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	GL Caps: Using GL 1.3 multitexturing.
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  Using GL 1.3 texture combiners.
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  Shaders are available because OpenGL 2.1 is supported.
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  VBOs are available because OpenGL 1.5 is supported.
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Using VBOs: Yes
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Is Modded: Probably not. Jar signature remains and client brand is untouched.
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Type: Client (map_client.txt)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Resource Packs: 
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	Current Language: English (US)
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  	CPU: 12x AMD Ryzen 5 2600X Six-Core Processor 
+[B#407] 2019/08/02 00:16:15 [INFORMAÇÕES]  #@!@# Game crashed! Crash report saved to: #@!@# C:\Users\thena\AppData\Roaming\.technic\modpacks\vanilla\crash-reports\crash-2019-08-02_00.16.15-client.txt
